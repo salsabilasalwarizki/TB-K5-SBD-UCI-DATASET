@@ -30,6 +30,7 @@
                         >
                             halo salwa
                             ini kuin
+                            ini sipa
                         </a>
                     @else
                         <a
